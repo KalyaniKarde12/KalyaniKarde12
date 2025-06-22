@@ -12,13 +12,13 @@
 - 📊 Tools: Git, Postman, VS Code, Figma, Firebase  
 - 📚 Libraries: Tailwind CSS, Ant Design, Chart.js, Axios
 
-  ### 🛠️ Projects
+### 🛠️ Projects
 
 - **Mindful Reflections**: An AI-powered journaling app using Flask, Gemini API, and ChartJS  
 - **Smart Accommodation Finder**: Aggregates and filters rental listings with price prediction  
 - **Expense Tracker**: Visual financial tracker using PHP, MySQL, and ChartJS  
 - **Farm Equipment Rental Portal**: Platform for farmers to list and rent tools, using Spring Boot and MySQL
-- **Campus Connect: A college website showing all details about college
+- **Campus Connect**: A college website showing all details about college
 
 ### 🏆 Achievements
 
