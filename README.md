@@ -1,12 +1,12 @@
 ### 👋 Hi, I'm Kalyani Karde
 
-🎓 Computer Engineering Student  
-💡 Passionate about building full-stack web apps and solving real-world problems with code  
-🌱 Currently learning: Advanced React, Spring Boot, and AI-based applications
+🎓 Computer Engineering Student trained and certified in SAP ABAP  
+💡 Also passionate about building full-stack web apps and solving real-world problems with code  
+🌱 Currently learning: SAP ABAP, RAP and BTP, Advanced React, and AIML
 
 ### 🔧 Tech Stack & Tools
 
-- 💻 Languages: Java, Python, JavaScript, TypeScript, SQL  
+- 💻 Languages: SAP ABAP, C++, Python, JavaScript, SQL 
 - 🌐 Web: HTML, CSS, React, Node.js, Express.js, Next.js, EJS  
 - ⚙️ Backend: Spring Boot, Flask, MongoDB, MySQL, REST APIs  
 - 📊 Tools: Git, Postman, VS Code, Figma, Firebase  
@@ -21,6 +21,7 @@
 - **Campus Connect**: A college website showing all details about college
 
 ### 🏆 Achievements
+📜 SAP Certified Associate - Back-End Developer - ABAP Cloud
 
 📄 Research Presentation – Presented paper "Mitigating Service Attacks in Software-Defined Networking via Cloud Computing" at the 1st National Conference, KIOT, Salem
 
@@ -28,6 +29,6 @@
 
 🤝 Let's Connect
 📬 Email: kalyanikardekk@gmail.com
-🔗 LinkedIn: linkedin.com/in/kalyani-karde-243978257
+🔗 LinkedIn: linkedin.com/in/kalyanikarde
 
 
