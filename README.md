@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Kalyani Karde
 
-🎓 Computer Engineering Student trained and certified in SAP ABAP  
+🎓 Computer Engineering student trained and certified in SAP ABAP  
 💡 Also passionate about building full-stack web apps and solving real-world problems with code  
 🌱 Currently learning: SAP ABAP, RAP and BTP, Advanced React, and AIML
 
